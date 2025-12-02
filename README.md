@@ -8,6 +8,6 @@ International guidelines on Nutrient Profiling models in scope
 # File names
 | Filename | Description |
 |----------|-------------|
-| `GI_Global-Index_TGI-product-profile_Report_2018.pdf` | The product profile report attached to the Global Index 2018. |
+| `GI_Global-Index_TGI-product-profile_Report_2018.pdf` | The product profile report attached to the Global Index 2018. The comparative nutritional profile of food and beverage products marketed by the 21 largest global companies in 9 countries’, carried out for ATNF during 2017, for use in the 2018 Global Access to Nutrition Index |
 | `ATNi_GI_full_report_022025.pdf` | Full report summarizing findings, insights, and recommendations |
 | `Global-Index-2024-methodology-FINAL3.pdf` | Methodology and scoring framework used in the assessment |
