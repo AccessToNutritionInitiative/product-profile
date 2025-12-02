@@ -12,4 +12,9 @@ International guidelines on Nutrient Profiling models in scope
 | `GI_Global-Index_TGI-product-profile_Report_2018.pdf` |Report on the comparative nutritional profile of food and beverage products marketed by the 21 largest global companies in 9 countries. Prepared by the George Institute for Global Health for the Access to Nutrition Initiative, for use in the 2018 Global Access to Nutrition Index. Nutrient information for 23,013 packaged food and beverage products in selected categories, made by the 21 manufacturers, was included in this analysis. Nutrient information was obtained either from product packaging or directly from the manufacturer and supplemented with imputed data.|
 | `GI_Global-Index_TGI-product-profile_2021-2-1.pdf` | Report on the comparative nutritional profile of food and beverage products marketed by the 25 largest global companies in 25 countries. Prepared by the George Institute for Global Health for the Access to Nutrition Initiative, for use in the 2021 Global Access to Nutrition Index. Nutrient information for 41,071 packaged food and beverage products in selected categories, made by the 25 manufacturers, was included in this analysis. Nutrient information was obtained either from product packaging or directly from the manufacturer and supplemented with imputed data.|
 | `Global-Index-2024-methodology-FINAL3.pdf` | Report on the comparative nutritional profile of food and beverage products marketed by 30 of the largest global companies in 25 countries. Prepared by the George Institute for Global Health for the Access to Nutrition Initiative, for use in the 2024 Global Access to Nutrition Index. Nutrient information for 53,315 packaged food and beverage products in selected categories, made by the 30 manufacturers, was included in this analysis. Nutrient information was obtained either directly from the manufacturer or from Innova Market Insights. |
-
+# File names related to country specific assessments 
+| Filename | Description |
+|----------|-------------|
+#Nutrient Profiling models in scope
+| Nutrient Profiling Model name | Official methodology |
+|----------|-------------|
