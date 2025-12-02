@@ -8,6 +8,6 @@ International guidelines on Nutrient Profiling models in scope
 # File names
 | Filename | Description |
 |----------|-------------|
-| `ATNi_Global_Index_2024_dataset_all_audiences_20250314.xlsx` | The main open dataset with company scores and product health data within countries |
+| `GI_Global-Index_TGI-product-profile_Report_2018.pdf` | The product profile report attached to the Global Index 2018. |
 | `ATNi_GI_full_report_022025.pdf` | Full report summarizing findings, insights, and recommendations |
 | `Global-Index-2024-methodology-FINAL3.pdf` | Methodology and scoring framework used in the assessment |
