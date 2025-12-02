@@ -5,3 +5,9 @@ Nutrient profiling is the science of classifying foods based on their nutritiona
 # 📁 What You’ll Find Here
 Document ATNi’s evolving methodologies for product profiling.
 International guidelines on Nutrient Profiling models in scope
+# File names
+| Filename | Description |
+|----------|-------------|
+| `ATNi_Global_Index_2024_dataset_all_audiences_20250314.xlsx` | The main open dataset with company scores and product health data within countries |
+| `ATNi_GI_full_report_022025.pdf` | Full report summarizing findings, insights, and recommendations |
+| `Global-Index-2024-methodology-FINAL3.pdf` | Methodology and scoring framework used in the assessment |
