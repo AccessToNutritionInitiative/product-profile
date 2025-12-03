@@ -16,6 +16,7 @@ International guidelines on Nutrient Profiling models in scope
 # File names related to country specific assessments 
 | Filename | Description |
 |----------|-------------|
+|file name|Report on the comparative nutritional profile of 983 food and beverage products marketed by 30 large companies operating in Kenya. Prepared by the George Institute for Global Health for the Access to Nutrition Initiative, for use in the East Africa Market Assessment - Kenya 2025.
 # Nutrient Profiling models in scope
 | Nutrient Profiling Model name |Country/region of origin |Date of development/versions|Nutrients included in the model|Original purpose|Original scoring system|
 |----------|-------------|-------------|-------------|-------------|-------------|
