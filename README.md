@@ -18,6 +18,10 @@ International guidelines on Nutrient Profiling models in scope
 |----------|-------------|
 |`20250630_EAMA_Kenya_Full_TGI_PP_2025_FINAL (1).pdf`|Report on the comparative nutritional profile of 983 food and beverage products marketed by 30 large companies operating in Kenya. Prepared by the George Institute for Global Health for the Access to Nutrition Initiative, for use in the East Africa Market Assessment - Kenya 2025. Nutrient information was obtained either from Innova Market Insight’s Kenya database or directly from the manufacturer.|
 |`20250624_EAMA_Tanzania_TGI_ProductProfile_-2025_FINAL.pdf`|Report on the comparative nutritional profile of 713 food and beverage products marketed by 21 large companies operating in Tanzania. Prepared by the George Institute for Global Health for the Access to Nutrition Initiative, for use in the East Africa Market Assessment - Kenya 2025. Nutrient information was obtained either from Innova Market Insight’s Kenya database or directly from the manufacturer.|
+# File names related to thematic assessments 
+| Filename | Description |
+|----------|-------------|
+|`20251103_Retail_Methodology_v2_Final.pdf`|The Product Profile is a core component of ATNi’s Retail Assessment 2025, providing an objective evaluation of the nutritional quality of private label packaged food and beverage products sold by the selected retailers. Focusing on the private label portfolios of the top three grocery retailers in six selected countries (18 retailers in total; see section 2.2 Retailer Selection), the Product Profile applies government-endorsed NPMs to determine the 'healthiness' of products across categories.|
 # Nutrient Profiling models in scope
 | Nutrient Profiling Model name |Country/region of origin |Date of development/versions|Original purpose|Nutrients included in the model|Original scoring system|
 |----------|-------------|-------------|-------------|-------------|-------------|
