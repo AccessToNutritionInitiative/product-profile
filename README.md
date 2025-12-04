@@ -36,3 +36,11 @@ International guidelines on Nutrient Profiling models in scope
 |----------|-------------|-------------|-------------|-------------|-------------|
 |mHSR+ model|Netherlands|2024|model is a nutrient profile model designed by The George Institute in collaboration with ATNi. Discrimination of companies’ product portfolios based on micronutrient content is currently not possible through the HSR.|
 |HFSS+UPF (colours/flavours/non-nutritive sweeteners)|
+
+
+
+
+|Name of assessment and link to report/methodology |Scope of the assessment|Nutrient profiling models in scope|Key changes|
+|-----------------------|-------------|-------------|-------------|
+|Global Index 2018, `GI_Global-Index_TGI-product-profile_Methodology_2018.pdf`|- 21 largest global Food and Beverage companies - 9 countries - 23,013 packaged food and beverage products in selected categorie.-Nutrient information was obtained either from product packaging or directly from the manufacturer and supplemented with imputed data|HSR, WHO EURO (Europe), Original 2015 edition, WHO SEAR (South-East Asia), WHO Nutrient Profile Model for South-East Asia Region (2017) https://www.who.int/publications/i/item/9789290225447, WHO WPR (Western Pacific), WHO Nutrient Profile Model for the Western Pacific Region (2016) https://www.who.int/publications/i/item/9789290617853, WHO AFR (African Region), Nutrient Profile Model for the WHO African Region (2019) https://www.who.int/publications/i/item/9789290234401, Pan American Health Organization (PAHO) https://www.paho.org/en/nutrient-profile-model||
+|Global Index 2021, `GI_Global-Index_TGI-product-profile_2021-2-1.pdf` |- 21 largest global Food and Beverage companies - 9 countries - 23,013 packaged food and beverage products in selected categorie.-Nutrient information was obtained either from product packaging or directly from the manufacturer and supplemented with imputed data||Same models as previously. The model is presented in tabular format and consists of 21 categories of processed foods and components that are subject to restriction, namely, total and saturated fats, total sugars and sodium per 100g/mL. The Kenyan model is very similar (and appears based on) the WHO AFRO model.|
